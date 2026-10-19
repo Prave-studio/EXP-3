@@ -50,16 +50,23 @@ Tabulation:1
 
 <img width="1412" height="532" alt="WhatsApp Image 2026-10-19 at 6 40 31 PM" src="https://github.com/user-attachments/assets/1a4207eb-7df4-4798-9811-4c508ef39221" />
 
+
+
 	
 Cross connection:
 
 CIRCUIT DIAGRAM:
 
+
+
 <img width="1110" height="647" alt="cross" src="https://github.com/user-attachments/assets/9201d79a-862d-419d-bcf1-acc90d74d036" />
 
 Tabulation:2
 
+
+
 <img width="1408" height="588" alt="WhatsApp Image 2026-10-19 at 6 40 30 PM" src="https://github.com/user-attachments/assets/7b2a5bbb-83ae-400f-909a-549b65e9e136" />
+
 
 
 RESULT:
